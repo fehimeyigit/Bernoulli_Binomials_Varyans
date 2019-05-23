@@ -9,10 +9,14 @@ başarı-başarısız/ sağlam-bozuk/ olumlu-olumsuz/ ölü-canlı
 
 Bernoulli dağılımının olasılık fonksiyonu
 
-
-
+![Alex](https://github.com/fehimeyigit/Bernoulli_Binomials_Varyans/blob/master/img/1.JPG)
 
 şeklinde verilir.
- 0 1
+ 
+ ![Alex](https://github.com/fehimeyigit/Bernoulli_Binomials_Varyans/blob/master/img/3.JPG)
 
 Bernoulli dağılımın beklenen değer ve varyansı aşağıdaki gibidir:
+
+![Alex](https://github.com/fehimeyigit/Bernoulli_Binomials_Varyans/blob/master/img/2.JPG)
+
+
